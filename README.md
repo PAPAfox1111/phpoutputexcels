@@ -11,8 +11,8 @@ Need Composer
 3, https://github.com/PHPOffice/PhpSpreadsheet
 
 ----------------------------------------------------
-
 CMD :
+
 1, composer require phpoffice/phpspreadsheet;
 
 2, case in XAMPP - turn 'extension=fileinfo' on;
